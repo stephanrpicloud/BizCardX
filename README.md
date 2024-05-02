@@ -53,13 +53,7 @@ To use the Business Card Data Management System, follow these steps:
    git clone https://github.com/stephanrpicloud/YouTube-Data-harvesting-project-](https://github.com/stephanrpicloud/BizCardX   
    ```
 
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit application:
+2. Run the Streamlit application:
 
    ```bash
    streamlit run app.py
