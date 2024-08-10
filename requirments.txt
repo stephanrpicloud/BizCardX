@@ -1,0 +1,7 @@
+https://github.com/victoryhb/streamlit-option-menu.git
+pandas==1.5.3
+numpy==1.24.0
+streamlit
+easyocr
+Pillow==9.2.0
+opencv-python-headless
